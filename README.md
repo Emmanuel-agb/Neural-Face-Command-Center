@@ -61,7 +61,7 @@ Neural-Face-Command-Center/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Neural-Face-Command-Center.git
+git clone https://github.com/Emmanuel-agb/Neural-Face-Command-Center.git
 cd Neural-Face-Command-Center
 ```
 
